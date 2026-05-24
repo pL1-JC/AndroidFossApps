@@ -2,19 +2,6 @@
   "_comment": "WARNING: Do NOT remove entries from this list. Always add new apps at the END of the 'apps' array. The rotation script will automatically move the oldest entries to apps.json when the list exceeds 25.",
   "apps": [
     {
-      "applicationName": "SpotiFLAC-Mobile",
-      "url": "https://github.com/zarzet/SpotiFLAC-Mobile",
-      "downloadUrl": [],
-      "isDead": false,
-      "isFork": false,
-      "tags": [
-        "Downloader & Manager",
-        "Music"
-      ],
-      "urlFork": null,
-      "description": ""
-    },
-    {
       "applicationName": "gitnote",
       "url": "https://github.com/wiiznokes/gitnote",
       "downloadUrl": [],
@@ -314,6 +301,19 @@
       ],
       "urlFork": null,
       "description": "A feature-rich, privacy-focused PDF app built with Jetpack Compose and Material 3. View, edit, and manage PDFs with 12 powerful tools."
+    },
+    {
+      "applicationName": "HeyBattery",
+      "url": "https://github.com/ghostyapps/HeyBattery",
+      "downloadUrl": [],
+      "isDead": false,
+      "isFork": false,
+      "tags": [
+        "Battery",
+        "System"
+      ],
+      "urlFork": null,
+      "description": "Lightweight Android utility that analyzes battery drain, deep sleep duration, and charging information."
     }
   ]
 }

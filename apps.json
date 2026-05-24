@@ -12133,5 +12133,18 @@
     ],
     "urlFork": null,
     "description": ""
+  },
+  {
+    "applicationName": "SpotiFLAC-Mobile",
+    "url": "https://github.com/zarzet/SpotiFLAC-Mobile",
+    "downloadUrl": [],
+    "isDead": false,
+    "isFork": false,
+    "tags": [
+      "Downloader & Manager",
+      "Music"
+    ],
+    "urlFork": null,
+    "description": ""
   }
 ]
