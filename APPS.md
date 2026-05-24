@@ -20,7 +20,6 @@
 
 <summary>Last <b>25 apps</b> that were recently added to list!</summary>
 
-- [SpotiFLAC-Mobile](https://github.com/zarzet/SpotiFLAC-Mobile)
 - [gitnote](https://github.com/wiiznokes/gitnote)
 - [Keyguard](https://github.com/AChep/keyguard-app)
 - [mpvEx](https://github.com/marlboro-advance/mpvEx)
@@ -45,6 +44,7 @@
 - [Winlator](https://github.com/brunodev85/winlator)
 - [Booming Music](https://github.com/mardous/BoomingMusic)
 - [PDF Reader Pro](https://github.com/ahmmedrejowan/PdfReaderPro)
+- [HeyBattery](https://github.com/ghostyapps/HeyBattery)
 
 </details>
 
@@ -305,6 +305,7 @@
 - [Battery Tool](https://github.com/Domi04151309/BatteryTool)
 - [BatteryBot Pro](https://github.com/darshan-/Battery-Indicator-Pro)
 - [BCL](https://github.com/MuntashirAkon/BatteryChargeLimiter)
+- [HeyBattery](https://github.com/ghostyapps/HeyBattery)
 - [SaverTuner](https://codeberg.org/s1m/savertuner)
 - [SuperFreezZ](https://gitlab.com/SuperFreezZ/SuperFreezZ)
 - [Wattz](https://github.com/dubrowgn/wattz)
@@ -1748,6 +1749,7 @@
 - [ErosFlashTool](https://github.com/Gabriel2392/ErosFlashTool)
 - [EtchDroid](https://github.com/etchdroid/etchdroid)
 - [Geto](https://github.com/JackEblan/Geto)
+- [HeyBattery](https://github.com/ghostyapps/HeyBattery)
 - [OCR](https://github.com/SubhamTyagi/android-ocr)
 - [PlainApp](https://github.com/ismartcoding/plain-app)
 - [Sapio](https://github.com/jonathanklee/sapio)
