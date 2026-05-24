@@ -503,7 +503,7 @@
 
 - [Cofi](https://github.com/rozPierog/Cofi)
 - [Cuppa](https://github.com/ncosgray/cuppa_mobile)
-- [Fomodoro](https://github.com/ronitkrshah/waifu-walls)
+- [Fomodoro](https://github.com/Arijit-05/Fomodoro)
 - [Smart EggTimer](https://github.com/woheller69/eggtimer)
 - [Tomato](https://github.com/nsh07/Tomato)
 - [Yearly Progress](https://github.com/a2ke5e1/yearly-progress/)
