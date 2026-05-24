@@ -3370,7 +3370,7 @@
   },
   {
     "applicationName": "Fomodoro",
-    "url": "https://github.com/ronitkrshah/waifu-walls",
+    "url": "https://github.com/Arijit-05/Fomodoro",
     "downloadUrl": [],
     "isDead": false,
     "isFork": false,
@@ -3379,7 +3379,7 @@
       "Timer"
     ],
     "urlFork": null,
-    "description": ""
+    "description": "Fomodoro is a beautifully simple and distraction-free Pomodoro timer built with Android (Kotlin). Designed with a cute and minimal UI, it’s perfect for anyone who wants to stay focused without the clutter of overwhelming features."
   },
   {
     "applicationName": "Food-E",
